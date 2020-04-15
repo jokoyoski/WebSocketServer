@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{8AA78D5B-2947-4593-8B93-D3644A749F11}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebSocketServer PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSocketServer/Manager/view.txt">
+    <Files>
+      <File FileName="WebSocketServer/Startup.cs" Line="34" Column="34" />
+      <File FileName="WebSocketServer/Properties/launchSettings.json" />
+      <File FileName="WebSocketServer/Controllers/WeatherForecastController.cs" />
+      <File FileName="WebSocketServer/CustomMiddleware/CultureMiddleware.cs" />
+      <File FileName="WebSocketServer/ExtensionsMiddleware/CultureExtensionMiddlware.cs" />
+      <File FileName="WebSocketServer/ExtensionsMiddleware/SocketExtensionMiddleware.cs" />
+      <File FileName="WebSocketServer/Program.cs" />
+      <File FileName="WebSocketServer/model/Name.cs" Line="9" Column="1" />
+      <File FileName="WebSocketServer/Manager/WebSocketServerConnectionaManager.cs" Line="16" Column="1" />
+      <File FileName="WebSocketServer/CustomMiddleware/WebSocketMiddleware.cs" Line="57" Column="67" />
+      <File FileName="WebSocketServer/Manager/view.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebSocketServer" expanded="True">
+            <Node name="WebSocketServer" expanded="True">
+              <Node name="CustomMiddleware" expanded="True" />
+              <Node name="ExtensionsMiddleware" expanded="True" />
+              <Node name="Manager" expanded="True">
+                <Node name="view.txt" selected="True" />
+              </Node>
+              <Node name="model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Projects/WebSocketServer/WebSocketServer/CustomMiddleware/2tan9v5g.gi3~" relfile="WebSocketServer/CustomMiddleware/2tan9v5g.gi3~" line="36" column="1" />
+      <Breakpoint file="/Users/mac/Projects/WebSocketServer/WebSocketServer/CustomMiddleware/r69ojv28.74v~" relfile="WebSocketServer/CustomMiddleware/r69ojv28.74v~" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

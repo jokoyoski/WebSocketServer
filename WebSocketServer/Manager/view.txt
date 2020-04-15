@@ -1,0 +1,10 @@
+﻿using System;
+namespace WebSocketServer.Manager
+{
+ public class view
+ {
+     public view()
+     {
+     }
+ }
+}

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CustomMiddleware\" />
+    <Folder Include="ExtensionsMiddleware\" />
+    <Folder Include="model\" />
+    <Folder Include="Manager\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="CustomMiddleware\WebocketMiddleware.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+</Project>
